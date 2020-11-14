@@ -1,0 +1,3 @@
+rootProject.name='Livedatabus'
+include ':app'
+include ':library'
